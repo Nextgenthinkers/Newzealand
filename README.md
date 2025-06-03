@@ -8,3 +8,4 @@
 * parabola NCERT(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ncert.nic.in/textbook/pdf/kemh110.pdf)
 * parabola Byju(https://byjus.com/maths/parabola-graph/)
 * parabola(https://www.wikihow.com/Graph-a-Parabola)
+* australia book year9(https://archive.org/details/emac-9-3ed-book/page/228/mode/2up?view=theater)
