@@ -9,3 +9,5 @@
 * parabola Byju(https://byjus.com/maths/parabola-graph/)
 * parabola(https://www.wikihow.com/Graph-a-Parabola)
 * australia book year9(https://archive.org/details/emac-9-3ed-book/page/228/mode/2up?view=theater)
+## Australia year10 book
+(https://archive.org/details/emac-103ed-book/page/52/mode/2up?view=theater)
